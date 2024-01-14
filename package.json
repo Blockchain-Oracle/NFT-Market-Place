@@ -1,0 +1,39 @@
+{
+  "name": "hardhtat-nft-fcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blockchain Oracle",
+  "license": "MIT",
+  "@chainlink/contracts": "^0.8.0",
+  "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
+  "@nomicfoundation/hardhat-ethers": "^3.0.5",
+  "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+  "@openzeppelin/contracts": "^5.0.1",
+  "@typechain/hardhat": "^9.1.0",
+  "dotenv": "^16.3.1",
+  "hardhat": "^2.19.4",
+  "hardhat-deploy": "^0.11.45",
+  "hardhat-deploy-ethers": "^0.4.1",
+  "hardhat-gas-reporter": "^1.0.9",
+  "solc": "^0.6.6",
+  "solidity-coverage": "^0.8.5",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "@typechain/hardhat": "^9.1.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.4",
+    "hardhat-deploy": "^0.11.45",
+    "hardhat-deploy-ethers": "^0.4.1",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solc": "^0.6.6",
+    "solidity-coverage": "^0.8.5"
+  }
+}
